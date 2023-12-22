@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KIB101D
+- 👀 I'm interested in both MMA and programming.
+- 🌱 I’m currently learning HTML and also C++
+- 📫 My gmail boiko.klymentii.ua@gmail.com
