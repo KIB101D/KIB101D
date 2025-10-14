@@ -5,10 +5,10 @@ I'm interested in development, open source, and new technologies 🚀
 
 ### 📈 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KIB101D&show_icons=true&theme=radical&count_private=true)
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KIB101D&layout=donut-vertical&langs_count=6&theme=radical)](https://github.com/KIB101D)
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KIB101D&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIB101D&layout=compact&theme=radical" />
+</p>
 
 ### 🔧 Technologies & Tools
 - JavaScript  
