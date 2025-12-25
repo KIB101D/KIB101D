@@ -6,7 +6,7 @@ I'm interested in development, open source, and new technologies 🚀
 ### 📈 Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-psi-37.vercel.app/api?username=KIB101D&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-eight-psi-37.vercel.app/api?username=KIB101D&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=stars,issues&hide_border=true" />
   <img height="180em" src="https://github-readme-stats-eight-psi-37.vercel.app/api/top-langs/?username=KIB101D&layout=compact&theme=radical&count_private=true" />
 </p>
 
