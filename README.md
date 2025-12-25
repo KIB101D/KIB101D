@@ -7,7 +7,7 @@ I'm interested in development, open source, and new technologies 🚀
 
 <div align="center">
 
-  <img src="https://github-readme-stats-eight-psi-37.vercel.app/api?username=KIB101D&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=stars,issues" 
+  <img src="https://github-readme-stats-eight-psi-37.vercel.app/api?username=KIB101D&show_icons=true&theme=radical&count_private=true&include_all_commits=true" 
        style="width:60%; vertical-align:top;" 
        alt="GitHub Stats" />
        
