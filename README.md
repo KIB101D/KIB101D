@@ -8,11 +8,11 @@ I'm interested in development, open source, and new technologies 🚀
 <div align="center">
 
   <img src="https://github-readme-stats-eight-psi-37.vercel.app/api?username=KIB101D&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=stars,issues" 
-       style="width: 58%;" 
+       style="width:60%; vertical-align:top;" 
        alt="GitHub Stats" />
-
+       
   <img src="https://github-readme-stats-eight-psi-37.vercel.app/api/top-langs/?username=KIB101D&layout=compact&theme=radical&count_private=true" 
-       style="width: 38%;" 
+       style="width:40%; vertical-align:top;" 
        alt="Top Languages" />
 
 </div>
