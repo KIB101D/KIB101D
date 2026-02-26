@@ -21,7 +21,7 @@ I'm interested in development, open source, and new technologies 🚀
 - Portfolio page — [Live](https://kib101d.github.io/Portfolio-page/) | [Repo](https://github.com/KIB101D/Portfolio-page)
 - API (ES6+) — [CATS!](https://kib101d.github.io/CATS/) | [Repo](https://github.com/KIB101D/CATS)
 - React Task List — [Repo](https://github.com/KIB101D/Task-List)
-- Component Composition (practice) — [Modal Window](https://github.com/KIB101D/Modal-window) [Component Library](https://github.com/KIB101D/UI-Component-Library) 
+- Component Composition (practice) — [Modal Window](https://github.com/KIB101D/Modal-window) | [Component Library](https://github.com/KIB101D/UI-Component-Library) 
 - useEffect (practice) — [Simple Exchange Calculator](https://github.com/KIB101D/Exchange-calculator)
 
 
