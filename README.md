@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! 👾
 
 My name is Klymentii.  
 I'm interested in development, open source, and new technologies 🚀
@@ -11,14 +11,22 @@ I'm interested in development, open source, and new technologies 🚀
 </p>
 
 ### 🔧 Technologies & Tools
-- JavaScript  
+- JavaScript (ES6+ modules 🎯) 
+- React ( Vite ⚡️)
 - SCSS  
 - GitHub, VS Code  
 
+### 🧑‍💻 Projects & Practice
+
+- Portfolio page — [Live](https://kib101d.github.io/Portfolio-page/) | [Repo](https://github.com/KIB101D/Portfolio-page)
+- API (ES6+) — [CATS!](https://kib101d.github.io/CATS/) | [Repo](https://github.com/KIB101D/CATS)
+- React Task List — [Repo](https://github.com/KIB101D/Task-List)
+- Component Composition (practice) — [Modal Window](https://github.com/KIB101D/Modal-window) [Component Library](https://github.com/KIB101D/UI-Component-Library) 
+- useEffect (practice) — [Simple Exchange Calculator](https://github.com/KIB101D/Exchange-calculator)
+
+
 ### 🌱 Currently Learning 
-- Basics of JavaScript (building simple interactive features)
-- How to work with React, Typescript, Next.js
-- Understanding project structure and working with GitHub  
+-  Deeping my knowledge in React, Typescript, Next.js 
 
 ### 📫 How to reach me
 - Email: boiko.klymentii.ua@gmail.com
