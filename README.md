@@ -38,6 +38,8 @@ E-commerce application with catalog filtering, product search, cart management, 
 
 🔗 [Live Demo](https://vite-react-ecommerce-jet.vercel.app/) | 🔗 [Repository](https://github.com/KIB101D/vite-react-ecommerce)
 
+---
+
 #### Task Manager
 
 **Stack:** React, TypeScript, Context API
@@ -45,6 +47,8 @@ E-commerce application with catalog filtering, product search, cart management, 
 Task management application with priorities, deadlines, localStorage persistence, and reusable custom hooks.
 
 🔗 [Live Demo](https://task-list-eight-teal.vercel.app/) | 🔗 [Repository](https://github.com/KIB101D/Task-List)
+
+---
 
 #### CATS!
 
