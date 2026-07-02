@@ -17,8 +17,8 @@ Currently exploring Next.js, application architecture, and performance optimizat
 
 ---
 
-🛠 Tech Stack
-Languages: JavaScript (ES6+), TypeScript 
+## 🛠 Tech Stack
+Languages: JavaScript (ES6+), TypeScript
 Core: React, React Router DOM, Context API, useReducer
 Styling: Tailwind CSS, SCSS, CSS Modules
 Tools & Architecture: Vite, Webpack, REST API, Git & GitHub, ESLint / Prettier
