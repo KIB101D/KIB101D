@@ -4,7 +4,7 @@ Frontend developer passionate about building modern web applications with React 
 
 Currently exploring Next.js, application architecture, and performance optimization.
 
-🌐 [**Portfolio:**](https://kib101d.github.io/Portfolio-page/)
+[**🌐 Portfolio Page**](https://kib101d.github.io/Portfolio-page/)
 
 ---
 
