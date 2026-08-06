@@ -1,8 +1,6 @@
 # Hi, I'm Klymentii 👋
 
-Frontend developer passionate about building modern web applications with React and TypeScript.
-
-Currently exploring Next.js, application architecture, and performance optimization.
+Frontend developer focused on React, Next.js, TypeScript and building maintainable web applications.
 
 [**My Portfolio Page**](https://kib101d.github.io/Portfolio-page/)
 
