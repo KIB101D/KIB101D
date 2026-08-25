@@ -4,7 +4,7 @@
 
 I work with **API-driven applications, component architecture, state management, responsive UI and localization**, and I’m comfortable working in existing codebases and collaborating with designers and backend developers.
 
-[**My Portfolio Page**](https://kib101d.github.io/Portfolio-page/)
+[**My Portfolio**](https://klymentii-portfolio.vercel.app/)
 
 ---
 
@@ -47,5 +47,5 @@ I work with **API-driven applications, component architecture, state management,
 ---
 
 ## 📫 Contact
-Email: boiko.klymentii.ua@gmail.com
-LinkedIn: https://www.linkedin.com/in/klymentii-boiko-a92539303/
+- Email: boiko.klymentii.ua@gmail.com
+- LinkedIn: https://www.linkedin.com/in/klymentii-boiko-a92539303/
