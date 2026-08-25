@@ -1,6 +1,8 @@
 # Hi, I'm Klymentii 👋
 
-Frontend developer focused on React, Next.js, TypeScript and building maintainable web applications.
+**Frontend Developer** focused on **React, Next.js and TypeScript**, with commercial experience building and maintaining web applications.
+
+I work with **API-driven applications, component architecture, state management, responsive UI and localization**, and I’m comfortable working in existing codebases and collaborating with designers and backend developers.
 
 [**My Portfolio Page**](https://kib101d.github.io/Portfolio-page/)
 
@@ -17,24 +19,27 @@ Frontend developer focused on React, Next.js, TypeScript and building maintainab
 
 ## 🛠 Tech Stack
 - Languages: JavaScript (ES6+), TypeScript
-- Core: React, React Router DOM, Context API, useReducer
-- Styling: Tailwind CSS, SCSS, CSS Modules
-- Tools & Architecture: Vite, Webpack, REST API, Git & GitHub, ESLint / Prettier
+- Core: React, Next.js, React Router, Context API, useReducer
+- Styling: SCSS, CSS Modules, Tailwind CSS, Responsive Design, Figma
+- Data & Integration: REST API, Strapi CMS, Zod, i18n
+- Tools: Vite, Webpack, Git, GitHub, Vercel, ESLint, Prettier
+
 
 ---
 
 ## 🧑‍💻 Projects 
-- API (ES6+) — [CATS!](https://kib101d.github.io/CATS/) | [Repo](https://github.com/KIB101D/CATS)
-- React Task List — [Live](https://task-list-eight-teal.vercel.app/) | [Repo](https://github.com/KIB101D/Task-List) 
+- [ReactShop (Next.js, SSR SEO)](https://reactshop-next-ochre.vercel.app/) | [Repo](https://github.com/KIB101D/reactshop-next) 
+- [CATS! (ES6+, API)](https://kib101d.github.io/CATS/) | [Repo](https://github.com/KIB101D/CATS) 
+- [DAG Demo (Webpack, DAG check)](https://github.com/KIB101D/dagforge) | [Repo](https://github.com/KIB101D/dagforge) 
+- [React Task List](https://task-list-eight-teal.vercel.app/) | [Repo](https://github.com/KIB101D/Task-List) 
 - [Component Library](https://github.com/KIB101D/UI-Component-Library)
 - [Vote Tracker (Vercel)](https://vote-tracker-liard.vercel.app/)
-- [Simple Exchange Calculator](https://github.com/KIB101D/Exchange-calculator)
 
 ---
 
 ## 🌱 Currently Learning
 
-- Next.js
+- Frontend Architecture
 - Advanced TypeScript
 - React Performance
 - Testing
@@ -43,3 +48,4 @@ Frontend developer focused on React, Next.js, TypeScript and building maintainab
 
 ## 📫 Contact
 Email: boiko.klymentii.ua@gmail.com
+LinkedIn: https://www.linkedin.com/in/klymentii-boiko-a92539303/
